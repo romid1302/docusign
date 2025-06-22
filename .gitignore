@@ -3,7 +3,7 @@ node_modules/
 
 # dotenv environment file
 .env
-
+file.txt
 # Logs
 logs/
 *.log
